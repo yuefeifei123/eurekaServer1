@@ -1,1 +1,1 @@
-this is the spring eureka server 2
+this is the spring eureka server 1
