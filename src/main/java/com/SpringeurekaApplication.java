@@ -10,7 +10,7 @@ public class SpringeurekaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringeurekaApplication.class, args);
-        System.out.println("spring cloud eureka service success");
+        System.out.println("spring cloud eurekaServer service success");
     }
 
 }
